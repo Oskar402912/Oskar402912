@@ -1,1 +1,1 @@
-[![header](<img src="Untitled.svg" width="100%" alt="альтернативный текст">)
+![header](<img src="Untitled.svg" alt="альтернативный текст">)
