@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Untitled.svg" width="350" title="hover text">
+  <img src="Untitled.svg" width="700" hight="150" title="hover text">
 </p>
 Here are some ideas to get you started:
 
