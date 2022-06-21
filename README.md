@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://gifer.com/embed/LV41/](https://i.gifer.com/LV41.gif)" width="100"/>
+  <img src="https://github.com/Oskar402912/Oskar402912/blob/main/LV41.gif?raw=true" width="100"/>
 </div>
 <h1 align="center">Hi 👋 
   <br>I'm a front end developer</h1>
