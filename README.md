@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**Oskar402912/Oskar402912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
 
 Here are some ideas to get you started:
 
