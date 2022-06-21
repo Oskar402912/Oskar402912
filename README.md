@@ -1,3 +1,3 @@
-[![Braydon's GitHub Banner](./assets/Untitled.svg](https://github.com/Oskar402912)
+<img  src="./assets/Untitled.svg" width="100%" height="100%" alt="logo">
 
 
