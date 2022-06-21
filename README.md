@@ -6,9 +6,12 @@
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=oskar402912-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div id="badges">
+   <a href="https://t.me/oskar402912">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
