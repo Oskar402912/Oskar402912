@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋 
   <br>I'm a front end developer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" src="https://komarev.com/ghpvc/?username=oskar402912-github-username&style=flat-square&color=blue" alt=""/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
